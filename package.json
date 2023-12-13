@@ -44,6 +44,7 @@
   },
   "devDependencies": {
     "bootstrap-scss": "^5.3.2",
+    "gh-pages": "^6.1.0",
     "react-router-dom": "^6.19.0"
   }
 }
